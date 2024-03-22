@@ -2,7 +2,7 @@
 // Connect to the database
 $db_host = "localhost";
 $db_user = "root";
-$db_pass = "12345678";
+$db_pass = "";
 $db_name = "wise_datacenter";
 
 	$conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
