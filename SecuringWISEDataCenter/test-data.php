@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "12345678";
+$password = "";
 $dbname = "wise_datacenter";
 
 $connect = mysqli_connect($servername, $username, $password, $dbname);
